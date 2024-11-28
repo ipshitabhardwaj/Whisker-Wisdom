@@ -3,30 +3,51 @@ Whisker Wisdom is a fun, interactive web app that blends AI-driven decision-maki
 
 **#Key Features:**
 AI-Powered Decision Making: The app uses intelligent algorithms to analyze user input and provide personalized decision suggestions.
+
 Interactive Virtual Cat: A cute cat companion that makes decisions by playfully "batting" at options, adding a layer of fun and interactivity to the decision process.
+
 Sentiment-Aware Suggestions: The app interprets user input and tailors its advice based on the tone of the user's message, making the experience feel more intuitive.
+
 Customizable Cat Persona: Users can personalize their virtual cat with different appearances and accessories to enhance the experience.
+
 Instant Decision Generation: With a simple click or tap, users receive a fun, cat-themed recommendation for their dilemma.
 
 **#Technologies Used:**
+
 PartyRock by AWS: A no-code platform used to rapidly build and deploy this app.
+
 AI Algorithms: PartyRock's built-in AI features for decision-making.
+
 Cloud Integration: Hosted and managed on AWS for scalability and reliability.
+
 Prompt Engineering: Entered the prompt to generate the required app. 
 
 **#How It Works:**
+
 User Input: Users provide a decision or dilemma they need help with.
+
 AI Analysis: PartyRock processes the input and analyzes the user's choices.
+
 Cat's Decision: The virtual cat “pounces” on a choice, providing a playful and fun answer.
+
 Personalized Experience: Over time, the app adapts to users’ preferences and gives better-tailored suggestions.
+
 Customization & Future Enhancements:
+
 Enhanced Personalization: Add more cat characters, accessories, and animations.
+
 Gamified Experience: Introduce rewards for regular use, like earning "cat treats" or unlocking new cat outfits.
+
 Expanded AI Features: Improve the decision-making algorithm by incorporating more advanced AI models to provide smarter suggestions.
 
 **#How to Use:**
-Visit the app URL.
+
+Visit the URL.
+
+Login
+
 Enter your decision dilemma (e.g., "What should I have for lunch?").
+
 Let the cat make the choice, and enjoy the whimsical decision process!
 
 **#Contributions:**
